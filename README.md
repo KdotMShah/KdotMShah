@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KdotMShah
-- 👀 I’m interested in coding, web development and game development
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in coding, Machine Learning and data science 
+- 🌱 I’m currently learning machine learning and data analysis 
 - 💞️ I’m looking to collaborate on github...
 - 📫 How to reach me / discord : shahin#7618
 
