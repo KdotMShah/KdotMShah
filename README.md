@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @KdotMShah
-- 👀 I’m interested in Machine Learning and data science 
-- 🌱 I’m currently learning machine learning and data analysis 
+- 👀 I’m interested in Data Analytics and Data Science 
+- 🌱 Currently honing my skills on machine learning, Deep Learning using python
 - 📫 How to reach me / discord : shahin_blud
